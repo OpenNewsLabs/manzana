@@ -11,7 +11,7 @@ Each player say a number out loud starting from 1. The player must use Roman num
 
 The player next to them (left or right), says the subsequent number and so on.
 
-When a number includes a 7 (like 17) or is divisible by seven (like 14), the player must say Pi instead of the number. 
+When a number ends in 7 (like 17) or is divisible by seven (like 14), the player must say Pi instead of the number. 
 
 When Pi is said out loud, the order switches so if clock-wise it switches to counter clockwise.
 
