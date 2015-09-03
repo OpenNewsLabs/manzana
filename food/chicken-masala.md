@@ -46,7 +46,7 @@
 
 * Squeeze some lemon juice on top. Garnish with coriander leaves if you have any. 
 
-* Serve with [Jeera rice]() or roti.
+* Serve with [Jeera rice](https://github.com/OpenNewsLabs/manzana/blob/master/food/jeera-rice) or roti.
 
 ### Notes
 
