@@ -16,7 +16,7 @@ The hook is that at least one player will fail on each hand, because the total n
 
 ## The pack
 
-Pocha is played with a[Spanish deck](https://en.wikipedia.org/wiki/Spanish_playing_cards) of 40 cards.
+Pocha is played with a [Spanish deck](https://en.wikipedia.org/wiki/Spanish_playing_cards) of 40 cards.
 
 ## Number of players
 
