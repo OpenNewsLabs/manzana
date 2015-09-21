@@ -3,13 +3,13 @@
 ## The Basics
 * 5 minutes prep
 * Serves 2 people
-* A tea strainer
+* You need loose tea (no tea bags, por favor) and a tea strainer
 
 ## Ingredients
-* 2 tsp black tea leaves
+* 2-3 tsp black tea
 * 1 cup water
 * 1 cup milk
-* sugar to taste
+* Sugar to taste
 * 1 inch X 1/4 inch slice ginger
 
 
