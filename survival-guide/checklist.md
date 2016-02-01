@@ -1,4 +1,4 @@
-# Checklist to navigate your first day
+# Getting started - Day 1
 Congratulations! You are ready to start your fellowship. It is exciting. But it can also be overwhelming as you try to fit into a newsroom.
 
 Fellowship is quite unique. As a fellow you are not an employee or an intern. You are not on the news org’s payroll, at least not directly. This might throw up some unique challenges especially with first-time hosts.
