@@ -20,8 +20,7 @@ This is a checklist of things to go over with your host.
 -	Make sure you have access to the newsroom's content management system.
 -	Get key card or badge required to get into the building.
 -	Make sure that you have access to team calendar and that you are invited to all relevant meetings
--	Ask if there is anything that is off-limit to you as a fellow.
--	Talk about morale budget related policy – Are there any events that a fellow cannot participate in? Happy hour, team travel, etc.?
+-	Ask if there is anything that is off-limit to you as a fellow. Are there any events that a fellow cannot participate in? Happy hour, team travel, etc.?
 - Find out whom to talk to in case of access issues
 
 ## Work culture
