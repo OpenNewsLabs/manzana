@@ -66,7 +66,7 @@ Each bid is a bet representing the number of tricks that player will try to take
 A hand will always be "over-bid" or "under-bid". It is very important to keep in mind when
 bidding that not all cards in the pack are in play in any hand.
 
-## The scoring
+## The scoring
 
 After playing all the tricks of the hand, the scores are updated according to the number of tricks obtained by each player and the bid made before playing the cards. 
 
