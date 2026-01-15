@@ -5,7 +5,7 @@
 Pocha, called also Podrida or [Oh Hell](http://www.pagat.com/exact/ohhell.html), is a Spanish card game very extended in different countries, due to the high number of versions. Pocha is a trick game in which the object is not to obtain more or less tricks, but to guess in advance how many tricks a player will win.
 
 
-## Object of the game
+## Object of the game
 
 The object is for each player to bid the number of tricks he thinks he can take from each hand, then to take exactly that many; no more and no fewer. 
 
