@@ -18,7 +18,7 @@ The hook is that at least one player will fail on each hand, because the total n
 
 Pocha is played with a [Spanish deck](https://en.wikipedia.org/wiki/Spanish_playing_cards) of 40 cards.
 
-## Number of players
+## Number of players
 
 For Pocha, at least three players are needed, but the most interesting one is played by four or five people.
 When three players take part in the game, the twos are removed from the pack, so that all the players receive the same number of cards when all the pack is dealt.
